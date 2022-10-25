@@ -10,7 +10,7 @@
 Download the project from Github
 
 ```bash
-git clone https://google.com
+git clone https://github.com/MStolen/nota-lang-editor.git
 ```
 
 Then navigate to the project directory before running the project with either Docker Compose or Docker.
@@ -59,4 +59,4 @@ To edit the document, you can type the special Markdown-Javascript hybrid that N
 
 ## License
 
-The k
+This work is licensed under the [ISC License](LICENSE).
