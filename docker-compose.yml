@@ -1,0 +1,13 @@
+version: '2'
+services:
+  nota-lang-editor:
+    image: nota-edit:0.1
+    build: .
+    user: "node"
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./src:/home/node/app
+      - /home/node/app/node_modules
+    ports:
+      - "8000:8000"
