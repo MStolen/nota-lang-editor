@@ -1,0 +1,10 @@
+abstract: "A simple implementation of the Nota-Lang editor in a docker container for quickly getting started with Nota-Lang without installation of Node"
+title: "Nota Editor Docker Implementation"
+url: "https://github.com/MStolen/nota-lang-editor"
+license: MIT
+cff-version: 1.2.0
+message: "If you use this software in a presentation or published work, please cite it as below."
+authors:
+  - family-names: "Steele"
+    given-names: "Alec Maxwell"
+    orcid: "https://orcid.org/0000-0001-5839-7360"

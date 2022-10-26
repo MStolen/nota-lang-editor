@@ -1,7 +1,7 @@
 version: '2'
 services:
   nota-lang-editor:
-    image: nota-edit:0.1
+    image: nota-edit:0.2.0
     build: .
     user: "node"
     environment:
