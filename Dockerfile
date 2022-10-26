@@ -1,4 +1,4 @@
-FROM node:19.0
+FROM node:18-alpine
 WORKDIR /home/node/app/
 
 # Move global storage to userspace and add to path
